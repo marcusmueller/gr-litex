@@ -22,9 +22,9 @@ LiteX Accelerator Block for GNU Radio
 
 To run, first clone the repo
 ```
-$ git clone https://github.com/Victoromoniyi/GNULiteX.git
+$ git clone https://github.com/Victoromoniyi/gr-litex.git
 ```
-Go into the /gr-litexgnu directory and run the following:
+Go into the /gr-litex directory and run the following:
 
 ```
 $ mkdir build
@@ -35,7 +35,7 @@ Once in the build directory, run:
 $ cmake../
 ```
 After this is completed, run:
-```
+```shell
 $ sudo make install
 ```
 
